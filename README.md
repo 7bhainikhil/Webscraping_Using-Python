@@ -5,9 +5,9 @@ In this repo, I have scrapped comments of students on MIT-WPU using python.
 
 I have used some following libraries to scrapped data
 
-1.BeautifulSoup
+,BeautifulSoup
 
-2.Pandas
+,Pandas
 
-3.requests
+,requests
 
